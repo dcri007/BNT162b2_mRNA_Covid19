@@ -1,0 +1,121 @@
+Sample_ID,Drug,Covid19_variants,FRNT 50,Country
+1,convalescent_plasma,B.1.1.7,1647,United Kingdom
+2,convalescent_plasma,B.1.1.7,1115,United Kingdom
+3,convalescent_plasma,B.1.1.7,438,United Kingdom
+4,convalescent_plasma,B.1.1.7,487,United Kingdom
+5,convalescent_plasma,B.1.1.7,695,United Kingdom
+6,convalescent_plasma,B.1.1.7,811,United Kingdom
+7,convalescent_plasma,B.1.1.7,695,United Kingdom
+8,convalescent_plasma,B.1.1.7,676,United Kingdom
+9,BNT162b2_sera,B.1.1.7,1727,United Kingdom
+10,BNT162b2_sera,B.1.1.7,2234,United Kingdom
+11,BNT162b2_sera,B.1.1.7,3016,United Kingdom
+12,BNT162b2_sera,B.1.1.7,1521,United Kingdom
+13,BNT162b2_sera,B.1.1.7,1467,United Kingdom
+14,BNT162b2_sera,B.1.1.7,1757,United Kingdom
+15,BNT162b2_sera,B.1.1.7,1749,United Kingdom
+16,BNT162b2_sera,B.1.1.7,1810,United Kingdom
+17,ChAdOx1_sera,B.1.1.7,589,United Kingdom
+18,ChAdOx1_sera,B.1.1.7,420,United Kingdom
+19,ChAdOx1_sera,B.1.1.7,320,United Kingdom
+20,ChAdOx1_sera,B.1.1.7,385,United Kingdom
+21,ChAdOx1_sera,B.1.1.7,178,United Kingdom
+22,ChAdOx1_sera,B.1.1.7,212,United Kingdom
+23,ChAdOx1_sera,B.1.1.7,100,United Kingdom
+24,ChAdOx1_sera,B.1.1.7,192,United Kingdom
+25,convalescent_plasma,VIC01,1647,Australia_VIC
+26,convalescent_plasma,VIC01,913,Australia_VIC
+27,convalescent_plasma,VIC01,1880,Australia_VIC
+28,convalescent_plasma,VIC01,1464,Australia_VIC
+29,convalescent_plasma,VIC01,2859,Australia_VIC
+30,convalescent_plasma,VIC01,1109,Australia_VIC
+31,convalescent_plasma,VIC01,1144,Australia_VIC
+32,convalescent_plasma,VIC01,1270,Australia_VIC
+33,BNT162b2_sera,VIC01,1149,Australia_VIC
+34,BNT162b2_sera,VIC01,1727,Australia_VIC
+35,BNT162b2_sera,VIC01,2234,Australia_VIC
+36,BNT162b2_sera,VIC01,3016,Australia_VIC
+37,BNT162b2_sera,VIC01,1521,Australia_VIC
+38,BNT162b2_sera,VIC01,4340,Australia_VIC
+39,BNT162b2_sera,VIC01,1749,Australia_VIC
+40,BNT162b2_sera,VIC01,1851,Australia_VIC
+41,ChAdOx1_sera,VIC01,495,Australia_VIC
+42,ChAdOx1_sera,VIC01,580,Australia_VIC
+43,ChAdOx1_sera,VIC01,253,Australia_VIC
+44,ChAdOx1_sera,VIC01,183,Australia_VIC
+45,ChAdOx1_sera,VIC01,432,Australia_VIC
+46,ChAdOx1_sera,VIC01,764,Australia_VIC
+47,ChAdOx1_sera,VIC01,133,Australia_VIC
+48,ChAdOx1_sera,VIC01,257,Australia_VIC
+49,convalescent_plasma,B.1.351,88,South Africa
+50,convalescent_plasma,B.1.351,339,South Africa
+51,convalescent_plasma,B.1.351,522,South Africa
+52,convalescent_plasma,B.1.351,111,South Africa
+53,convalescent_plasma,B.1.351,202,South Africa
+54,convalescent_plasma,B.1.351,348,South Africa
+55,convalescent_plasma,B.1.351,748,South Africa
+56,convalescent_plasma,B.1.351,184,South Africa
+57,BNT162b2_sera,B.1.351,230,South Africa
+58,BNT162b2_sera,B.1.351,420,South Africa
+59,BNT162b2_sera,B.1.351,577,South Africa
+60,BNT162b2_sera,B.1.351,385,South Africa
+61,BNT162b2_sera,B.1.351,122,South Africa
+62,BNT162b2_sera,B.1.351,202,South Africa
+63,BNT162b2_sera,B.1.351,143,South Africa
+64,BNT162b2_sera,B.1.351,192,South Africa
+65,ChAdOx1_sera,B.1.351,155,South Africa
+66,ChAdOx1_sera,B.1.351,62,South Africa
+67,ChAdOx1_sera,B.1.351,62,South Africa
+68,ChAdOx1_sera,B.1.351,54,South Africa
+69,ChAdOx1_sera,B.1.351,45,South Africa
+70,ChAdOx1_sera,B.1.351,51,South Africa
+71,ChAdOx1_sera,B.1.351,57,South Africa
+72,ChAdOx1_sera,B.1.351,36,South Africa
+73,convalescent_plasma,P.1,171,Brazil
+74,convalescent_plasma,P.1,584,Brazil
+75,convalescent_plasma,P.1,997,Brazil
+76,convalescent_plasma,P.1,798,Brazil
+77,convalescent_plasma,P.1,1502,Brazil
+78,convalescent_plasma,P.1,1204,Brazil
+79,convalescent_plasma,P.1,978,Brazil
+80,convalescent_plasma,P.1,1012,Brazil
+81,BNT162b2_sera,P.1,1285,Brazil
+82,BNT162b2_sera,P.1,1286,Brazil
+83,BNT162b2_sera,P.1,1198,Brazil
+84,BNT162b2_sera,P.1,1539,Brazil
+85,BNT162b2_sera,P.1,466,Brazil
+86,BNT162b2_sera,P.1,184,Brazil
+87,BNT162b2_sera,P.1,343,Brazil
+88,BNT162b2_sera,P.1,988,Brazil
+89,ChAdOx1_sera,P.1,495,Brazil
+90,ChAdOx1_sera,P.1,580,Brazil
+91,ChAdOx1_sera,P.1,253,Brazil
+92,ChAdOx1_sera,P.1,183,Brazil
+93,ChAdOx1_sera,P.1,432,Brazil
+94,ChAdOx1_sera,P.1,764,Brazil
+95,ChAdOx1_sera,P.1,133,Brazil
+96,ChAdOx1_sera,P.1,257,Brazil
+97,convalescent_plasma,B.1.617.1,338,India
+98,convalescent_plasma,B.1.617.1,288,India
+99,convalescent_plasma,B.1.617.1,339,India
+100,convalescent_plasma,B.1.617.1,311,India
+101,convalescent_plasma,B.1.617.1,321,India
+102,convalescent_plasma,B.1.617.1,258,India
+103,convalescent_plasma,B.1.617.1,253,India
+104,convalescent_plasma,B.1.617.1,272,India
+105,BNT162b2_sera,B.1.617.1,4340,India
+106,BNT162b2_sera,B.1.617.1,2467,India
+107,BNT162b2_sera,B.1.617.1,3016,India
+108,BNT162b2_sera,B.1.617.1,2234,India
+109,BNT162b2_sera,B.1.617.1,2521,India
+110,BNT162b2_sera,B.1.617.1,2757,India
+111,BNT162b2_sera,B.1.617.1,2851,India
+112,BNT162b2_sera,B.1.617.1,1810,India
+113,ChAdOx1_sera,B.1.617.1,2016,India
+114,ChAdOx1_sera,B.1.617.1,2186,India
+115,ChAdOx1_sera,B.1.617.1,1087,India
+116,ChAdOx1_sera,B.1.617.1,975,India
+117,ChAdOx1_sera,B.1.617.1,953,India
+118,ChAdOx1_sera,B.1.617.1,958,India
+119,ChAdOx1_sera,B.1.617.1,901,India
+120,ChAdOx1_sera,B.1.617.1,1578,India
